@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://nickmorefun.itch.io/mochi",
-  "notes": "Mochi talks more about what you are doing and repeats itself much less. Colourful spots now slowly fade away."
+  "notes": "Mochi learns where you file things and follows your habits, picks the more specific folder, handles alias folders, and flies to the folder it is really filing into."
 }
